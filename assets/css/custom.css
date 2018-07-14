@@ -1,0 +1,10 @@
+.media {
+    width: 36%;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+
+.media img {
+    margin-left: 20%;
+}
